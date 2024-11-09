@@ -58,6 +58,8 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Please enter a valid age", Toast.LENGTH_SHORT).show();
                 }
 
+                //dog
+
 
 
 
